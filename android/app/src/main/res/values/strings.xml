@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hot Delivery</string>
+    <string name="facebook_app_id">598816237217681</string>
+    <string name="fb_login_protocol_scheme">fb598816237217681</string>
+    <string name="account_kit_client_token">f5f7b964417e1aab110026e8798c4483</string>
+
+</resources>
